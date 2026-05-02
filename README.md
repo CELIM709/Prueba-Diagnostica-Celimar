@@ -5,7 +5,7 @@
 
 ---
 
-## 1) Analizador de Expresiones Aritméticas (P1)
+## 1) Analizador de Expresiones Aritméticas 
 
 Clasifica los componentes de una expresión en:
 
@@ -34,7 +34,7 @@ Abrir el proyecto en NetBeans y ejecutar la clase principal.
 
 ---
 
-## 2) Validador de Notación FEN (P2)
+## 2) Validador de Notación FEN 
 
 Valida si una cadena cumple con la notación FEN.
 
@@ -58,7 +58,7 @@ Ejecutar el programa e ingresar la cadena FEN.
 
 ---
 
-## 3) Conjetura de Collatz (P3)
+## 3) Conjetura de Collatz 
 
 Verifica la conjetura en un intervalo `[p, q]`.
 
