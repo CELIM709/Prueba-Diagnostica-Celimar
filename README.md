@@ -1,8 +1,8 @@
 # Lenguajes y Compiladores 
 
 **Estudiante:** Celimar Rojas
-**Carrera:** Ingeniería en Informática
 
+**Carrera:** Ingeniería en Informática
 ---
 
 ## 1) Analizador de Expresiones Aritméticas (P1)
@@ -31,7 +31,6 @@ Abrir el proyecto en NetBeans y ejecutar la clase principal.
 
 * Java JDK 17+
 * NetBeans
-
 ---
 
 ## 2) Validador de Notación FEN (P2)
@@ -55,7 +54,6 @@ Ejecutar el programa e ingresar la cadena FEN.
 
 * Java JDK 17+
 * NetBeans
-
 ---
 
 ## 3) Conjetura de Collatz (P3)
@@ -79,14 +77,12 @@ Ingresar los valores solicitados por consola.
 
 * Java JDK 17+
 * NetBeans
-
 ---
 
 ## Scripts de instalación
 
 Los programas están desarrollados en **Java** y se ejecutan mediante **NetBeans**.
 
-Los proyectos están gestionados mediante **Maven**, lo cual actúa como el script de configuración de dependencias y componentes del lenguaje.
-
+Además, cada proyecto incluye configuración con **Maven** (`pom.xml`), utilizada para la gestión de dependencias.
 ---
 
