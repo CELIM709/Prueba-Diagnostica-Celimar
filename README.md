@@ -1,7 +1,6 @@
 # Lenguajes y Compiladores 
 
-**Estudiante:** Celimar Rojas
-
+**Estudiante:** Celimar Rojas CI: 31.981.398 
 **Carrera:** Ingeniería en Informática
 ---
 
