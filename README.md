@@ -21,7 +21,7 @@ También valida el balanceo de paréntesis.
 
 Abrir el proyecto en NetBeans y ejecutar la clase principal.
 
-### Ejecución
+### ▶️Ejecución
 
 * Abrir **P1_Analizador** en NetBeans
 * Ejecutar `P1_TokenAritmetico.java`
@@ -46,7 +46,7 @@ Valida si una cadena cumple con la notación FEN.
 
 Ejecutar el programa e ingresar la cadena FEN.
 
-### Ejecución
+### ▶️Ejecución
 
 * Abrir **P2_ValidadorFEN** en NetBeans
 * Ejecutar `P2_ValidadorFEN.java`
@@ -70,7 +70,7 @@ Verifica la conjetura en un intervalo `[p, q]`.
 
 Ingresar los valores solicitados por consola.
 
-### Ejecución
+### ▶️Ejecución
 
 * Abrir **P3_Collatz** en NetBeans
 * Ejecutar `P3_ConjeturaDeCollatz.java`
