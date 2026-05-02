@@ -1,7 +1,8 @@
 # Lenguajes y Compiladores 
 
-**Estudiante:** Celimar Rojas CI: 31.981.398 
+**Estudiante:** Celimar Rojas CI: 31.981.398  
 **Carrera:** Ingeniería en Informática
+
 ---
 
 ## 1) Analizador de Expresiones Aritméticas (P1)
@@ -30,6 +31,7 @@ Abrir el proyecto en NetBeans y ejecutar la clase principal.
 
 * Java JDK 17+
 * NetBeans
+
 ---
 
 ## 2) Validador de Notación FEN (P2)
@@ -53,6 +55,7 @@ Ejecutar el programa e ingresar la cadena FEN.
 
 * Java JDK 17+
 * NetBeans
+
 ---
 
 ## 3) Conjetura de Collatz (P3)
@@ -76,6 +79,7 @@ Ingresar los valores solicitados por consola.
 
 * Java JDK 17+
 * NetBeans
+
 ---
 
 ## Scripts de instalación
