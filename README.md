@@ -86,6 +86,7 @@ Ingresar los valores solicitados por consola.
 
 Los programas están desarrollados en **Java** y se ejecutan mediante **NetBeans**.
 
-* Además, cada proyecto incluye configuración con **Maven** (`pom.xml`), utilizada para la gestión de dependencias.
+Además, cada proyecto incluye configuración con **Maven** (`pom.xml`), utilizada para la gestión de dependencias.
+
 ---
 
